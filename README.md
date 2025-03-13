@@ -1,6 +1,6 @@
 # React Basics Course Completion
 
-This repository contains the summary, learnings, and project files from my completion of the **React Basics Course**. The course was focused on introducing the fundamentals of React and its various concepts to build interactive and dynamic user interfaces.
+This repository contains the summary, learnings from my completion of the **React Basics Course**. The course was focused on introducing the fundamentals of React and its various concepts to build interactive and dynamic user interfaces.
 
 ## Course Overview
 
